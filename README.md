@@ -1,0 +1,1 @@
+This is a Python code for the finite element simulation of the moving boundary problem. It was used for simulation results in Paper 1. This code is written for the foam rubber case. To get the solution for the dense rubber case, we need to change the parameter a_o and sigma 
